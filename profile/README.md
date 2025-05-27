@@ -17,15 +17,6 @@ We specialize in building:
 
 ---
 
-## 🧩 Projects
-
-| Project | Description |
-|--------|-------------|
-| [`dj-starter-kit`](https://github.com/YOUR_ORG_NAME/dj-starter-kit) | The ultimate Django project boilerplate to get started fast. |
-| More coming soon... | Stay tuned! 🚧 |
-
----
-
 ## 👥 Join the Community
 
 Whether you're a Django veteran or just getting started, we welcome contributions, ideas, and feedback. Let's build better Django tools—together.
